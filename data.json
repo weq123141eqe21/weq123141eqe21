@@ -1,0 +1,35 @@
+{
+  "options": {
+    "ai": {
+      "label": "AI Research",
+      "emoji": "🤖",
+      "count": 0,
+      "voters": []
+    },
+    "cv": {
+      "label": "Computer Vision",
+      "emoji": "👁️",
+      "count": 0,
+      "voters": []
+    },
+    "lt": {
+      "label": "Long-tail Learning",
+      "emoji": "📊",
+      "count": 0,
+      "voters": []
+    },
+    "student": {
+      "label": "Student",
+      "emoji": "🎓",
+      "count": 0,
+      "voters": []
+    },
+    "collab": {
+      "label": "Collaboration",
+      "emoji": "🤝",
+      "count": 0,
+      "voters": []
+    }
+  },
+  "total_unique_interactions": 0
+}
